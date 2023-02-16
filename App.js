@@ -1,20 +1,29 @@
 import { StatusBar } from 'expo-status-bar';
-import { StyleSheet, Text, View } from 'react-native';
+import {SafeAreaViewiew } from 'react-native';
+import { NavigationContainer } from '@react-navigation/native';
+import SignedInStack from './src/Routing/SignedInStack';
+import SignedOutStack from './src/Routing/SignedOutStack';
+import AppStack from './src/Routing/Auth';
+import Address from './src/screens/account/address/Address';
+import AddAddress from './src/screens/account/address/AddAddress';
 
 export default function App() {
   return (
-    <View style={styles.container}>
-      <Text>Open up App.js to start working on your app!</Text>
-      <StatusBar style="auto" />
-    </View>
+    <>
+           <NavigationContainer>
+              <StatusBar />
+              {/* auth nav */}
+              <AppStack />       
+              {/* <SignedOutStack/> */}
+              {/* <Index /> */}
+              {/* <EditProfile /> */}
+              {/* <Address /> */}
+              {/* <Address /> */}
+              {/* <AddAddress /> */}
+           </NavigationContainer>
+       
+         
+    </>
   );
 }
 
-const styles = StyleSheet.create({
-  container: {
-    flex: 1,
-    backgroundColor: '#fff',
-    alignItems: 'center',
-    justifyContent: 'center',
-  },
-});
