@@ -1,0 +1,376 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Snapshot Testing Correctly  1`] = `
+<View
+  style={
+    [
+      {
+        "flexBasis": "0%",
+        "flexGrow": 1,
+        "flexShrink": 1,
+      },
+      {
+        "backgroundColor": "#e2e8f0",
+      },
+    ]
+  }
+>
+  <View
+    style={
+      [
+        {
+          "marginTop": 64,
+        },
+        {
+          "marginLeft": 20,
+          "marginRight": 20,
+        },
+      ]
+    }
+  >
+    <View
+      style={
+        [
+          {
+            "flexDirection": "row",
+          },
+        ]
+      }
+    >
+      <Text
+        style={
+          [
+            {
+              "textTransform": "capitalize",
+            },
+            {
+              "fontSize": 24,
+              "lineHeight": 32,
+            },
+            {
+              "marginRight": 176,
+            },
+            {
+              "fontWeight": "800",
+            },
+          ]
+        }
+      >
+        Good Afternoon
+      </Text>
+      <View
+        accessible={true}
+        collapsable={false}
+        focusable={false}
+        onClick={[Function]}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          {
+            "opacity": 1,
+          }
+        }
+      >
+        <Text
+          allowFontScaling={false}
+          selectable={false}
+          style={
+            [
+              {
+                "color": "red",
+                "fontSize": 28,
+              },
+              undefined,
+              {
+                "fontFamily": "ionicons",
+                "fontStyle": "normal",
+                "fontWeight": "normal",
+              },
+              {},
+            ]
+          }
+        >
+          
+        </Text>
+      </View>
+    </View>
+    <View
+      style={
+        [
+          {
+            "marginTop": 12,
+          },
+        ]
+      }
+    >
+      <Text
+        style={
+          [
+            {
+              "textTransform": "capitalize",
+            },
+            {
+              "fontSize": 20,
+              "lineHeight": 28,
+            },
+            {
+              "fontWeight": "600",
+            },
+          ]
+        }
+      >
+        reserve your table
+      </Text>
+      <View
+        style={
+          [
+            {
+              "backgroundColor": "#e5e7eb",
+            },
+            {
+              "height": 288,
+            },
+            {
+              "justifyContent": "center",
+            },
+            {
+              "alignItems": "center",
+            },
+            {
+              "borderBottomLeftRadius": 6,
+              "borderBottomRightRadius": 6,
+              "borderTopLeftRadius": 6,
+              "borderTopRightRadius": 6,
+            },
+            {
+              "marginTop": 2,
+            },
+          ]
+        }
+      >
+        <Image
+          source={
+            {
+              "uri": "https://img.freepik.com/free-photo/table-set-dinning-table_1339-3461.jpg?w=1060&t=st=1678301483~exp=1678302083~hmac=2d4727c3024ebcf0921554595a46fa9ab7e76d6fcc763506495d71441bf3c547",
+            }
+          }
+          style={
+            [
+              {
+                "width": 690,
+              },
+              {
+                "marginBottom": 4,
+                "marginLeft": 4,
+                "marginRight": 4,
+                "marginTop": 4,
+              },
+              {
+                "height": 208,
+              },
+              {
+                "borderBottomLeftRadius": 6,
+                "borderBottomRightRadius": 6,
+                "borderTopLeftRadius": 6,
+                "borderTopRightRadius": 6,
+              },
+            ]
+          }
+        />
+        <View
+          accessible={true}
+          collapsable={false}
+          focusable={true}
+          onClick={[Function]}
+          onResponderGrant={[Function]}
+          onResponderMove={[Function]}
+          onResponderRelease={[Function]}
+          onResponderTerminate={[Function]}
+          onResponderTerminationRequest={[Function]}
+          onStartShouldSetResponder={[Function]}
+          style={
+            {
+              "backgroundColor": "#fdba74",
+              "borderBottomLeftRadius": 8,
+              "borderBottomRightRadius": 8,
+              "borderTopLeftRadius": 8,
+              "borderTopRightRadius": 8,
+              "height": 40,
+              "marginTop": 8,
+              "opacity": 1,
+              "width": 690,
+            }
+          }
+        >
+          <Text
+            style={
+              [
+                {
+                  "textTransform": "capitalize",
+                },
+                {
+                  "fontSize": 20,
+                  "lineHeight": 28,
+                },
+                {
+                  "fontWeight": "700",
+                },
+                {
+                  "textAlign": "center",
+                },
+                {
+                  "paddingBottom": 6,
+                  "paddingLeft": 6,
+                  "paddingRight": 6,
+                  "paddingTop": 6,
+                },
+              ]
+            }
+          >
+            Book Now
+          </Text>
+        </View>
+      </View>
+    </View>
+    <View
+      style={
+        [
+          {
+            "marginTop": 8,
+          },
+        ]
+      }
+    >
+      <Text
+        style={
+          [
+            {
+              "textTransform": "capitalize",
+            },
+            {
+              "fontSize": 20,
+              "lineHeight": 28,
+            },
+            {
+              "fontWeight": "600",
+            },
+          ]
+        }
+      >
+        order your food
+      </Text>
+      <View
+        style={
+          [
+            {
+              "backgroundColor": "#e5e7eb",
+            },
+            {
+              "height": 288,
+            },
+            {
+              "justifyContent": "center",
+            },
+            {
+              "alignItems": "center",
+            },
+            {
+              "borderBottomLeftRadius": 6,
+              "borderBottomRightRadius": 6,
+              "borderTopLeftRadius": 6,
+              "borderTopRightRadius": 6,
+            },
+          ]
+        }
+      >
+        <Image
+          source={
+            {
+              "uri": "https://img.freepik.com/premium-photo/plate-delicious-homemade-chicken-biryani-yogurt-dip-plate-white-surface_665346-15464.jpg?w=900",
+            }
+          }
+          style={
+            [
+              {
+                "width": 690,
+              },
+              {
+                "marginBottom": 2,
+                "marginLeft": 2,
+                "marginRight": 2,
+                "marginTop": 2,
+              },
+              {
+                "height": 208,
+              },
+              {
+                "borderBottomLeftRadius": 6,
+                "borderBottomRightRadius": 6,
+                "borderTopLeftRadius": 6,
+                "borderTopRightRadius": 6,
+              },
+            ]
+          }
+        />
+        <View
+          accessible={true}
+          collapsable={false}
+          focusable={true}
+          onClick={[Function]}
+          onResponderGrant={[Function]}
+          onResponderMove={[Function]}
+          onResponderRelease={[Function]}
+          onResponderTerminate={[Function]}
+          onResponderTerminationRequest={[Function]}
+          onStartShouldSetResponder={[Function]}
+          style={
+            {
+              "backgroundColor": "#fdba74",
+              "borderBottomLeftRadius": 8,
+              "borderBottomRightRadius": 8,
+              "borderTopLeftRadius": 8,
+              "borderTopRightRadius": 8,
+              "height": 40,
+              "marginTop": 8,
+              "opacity": 1,
+              "width": 690,
+            }
+          }
+        >
+          <Text
+            style={
+              [
+                {
+                  "textTransform": "capitalize",
+                },
+                {
+                  "fontSize": 20,
+                  "lineHeight": 28,
+                },
+                {
+                  "fontWeight": "600",
+                },
+                {
+                  "textAlign": "center",
+                },
+                {
+                  "paddingBottom": 6,
+                  "paddingLeft": 6,
+                  "paddingRight": 6,
+                  "paddingTop": 6,
+                },
+              ]
+            }
+          >
+            Book Now
+          </Text>
+        </View>
+      </View>
+    </View>
+  </View>
+</View>
+`;

@@ -1,17 +1,16 @@
-import { View} from 'react-native'
+import { View } from 'react-native'
 import React from 'react'
 import Profile from '../../components/profile/Profile'
-import FoodOrdersList from '../../components/ordersList/FoodOrdersList';
-import LogOut from '../../components/ordersList/LogOut';
+import ListOfFields from './list';
+import LogOut from '../account/LogOut';
 
-const Account = () => {
+export const Account = () => {
   return (
     <View className='flex flex-1 justify-center items-center border-gray-50'>
-              <Profile />
-              <FoodOrdersList />
-              <LogOut />
+      <Profile />
+      <ListOfFields />
+      <LogOut />
     </View>
   )
 }
 
-export default Account;
