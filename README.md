@@ -1,8 +1,8 @@
 # Food_App
 Steps to be followed while setup the environment:
-1). Make sure node js version should be 14.21.2 only otherwise won't work.
-Commands :
-	node - v  : to check the node version
+	1). Make sure node js version should be 14.21.2 only otherwise won't work.
+	Commands :
+		node - v  : to check the node version
 
 2). Install expo-cli and it should be 6.1.0
 	Commands to install and check the version:
