@@ -44,17 +44,17 @@ Note : before running you must install git in your local machine.
 8). run the project in your physical device or emulator
 
  	Steps to run app in physical device through expo go application :
-    	1)  Open expo go application in your mobile
-    	2). Scan the qr code , which is displayed in your terminal 
+		1)  Open expo go application in your mobile
+		2). Scan the qr code , which is displayed in your terminal 
 
  	Steps to run app in emulator :
-    	1). install android studio
-   	2). setup the emulator
-    	3). press a key to run the app in android 
-                     or
-          press i key to run the app in ios 
-			   or
-          press w key to run the app in web
+		1). install android studio
+			2). setup the emulator
+		3). press a key to run the app in android 
+			     or
+		  press i key to run the app in ios 
+				   or
+		  press w key to run the app in web
 
 
 expo  Commands :
