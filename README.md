@@ -37,7 +37,7 @@ Note : before running you must install git in your local machine.
             Email  : yourexpo-email999@gmail.com
             Password : password@#
 
-7). Start the development metro server 
+7). Start the metro development server 
     Command:
               npx expo start
   
