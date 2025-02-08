@@ -2,7 +2,7 @@
 Steps to be followed while setting up the environment:
 1). Make sure the node js version should be 14.21.2 only otherwise won't work.
 Commands :
-	node - v : to check the node version
+	node - v: to check the node version
 
 2). Install expo-cli and it should be 6.1.0
      Commands to install and check the version:
@@ -25,10 +25,10 @@ Commands :
              Command: Ctrl + shift+ ~ or Ctrl+~ 
          3). Run the Below command in the terminal
             npm install
-      Note: wait some time until you install packages.
+      Note: wait some time until you install the packages.
 
 6).  Login expo account on your local machine
-	Command : npx expo login
+	Command: npx expo login
         Credentials:
             Email: yourexpo-email999@gmail.com
             Password: password@#
@@ -52,14 +52,12 @@ Commands :
 		  Press the w key to run the app on the web
 
 expo  Commands :
-
     press r- to reload the app
     Press w- open in web
     press a- open in android
     press i - open in ios 
     Press c - see the QR code
     Press? - show all available options
-
-    Press the r key in the terminal to relaod the app 
+    Press the r key in the terminal to reload the app 
           Or 
     Shack your physical mobile to reload the app.
